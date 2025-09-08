@@ -1,9 +1,9 @@
-<h1>Hi, I'm Hassan <br/><a  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student at Kingston University</a></h1>
+<h1>Hi, I'm Hassan <br/><a  <a href="https://www.linkedin.com/in/hassan-mustafa0/">Cybersecurity Student at Kingston University</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cyber HomeLab</b>
-  - [Creating a Cyber HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Cyber HomeLab](https://github.com/Hassan05m/Cyber-HomeLab)
 
 <h2>📄 Certifications:</h2>
 
