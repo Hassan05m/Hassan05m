@@ -11,17 +11,19 @@
 - [Learning Cryptography and Network Security (LinkedIn Learning) ](https://www.linkedin.com/learning/certificates/8c70ae6d03f8b569490e41af9aed5b69bdf5e2177eefa9fe7da85463b2fb7b37)
 - [Symetric Cryptography Essential Training (LinkedIn Learning) ](https://www.linkedin.com/learning/certificates/ee1de8352f692735f532c01505aeb9b063cf2d07b3ff7129b7c0325523bf0f31)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🖊️ Professional Skills</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>🖊️ Professional Skills</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
  
 [linkedin]: https://www.linkedin.com/in/hassan-mustafa0/
