@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hassan <br/><a  <a href="https://www.linkedin.com/in/hassan-mustafa0/">Cybersecurity Student at Kingston University</a></h1>
+<h1> Hi, I'm Hassan <br/><a  <a href="https://www.linkedin.com/in/hassan-mustafa0/">Cybersecurity Student at Kingston University</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -15,7 +15,7 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>🖊️ Professional Skills</h2>
+<h2>🖊️ Technical Skills</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
