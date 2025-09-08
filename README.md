@@ -7,9 +7,9 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Foundation Level Threat Intelligence Analyst (ArcX) ](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Learning Cryptography and Network Security (LinkedIn Learning) ](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Symetric Cryptography Essential Training (LinkedIn Learning) ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Foundation Level Threat Intelligence Analyst (ArcX) ](https://arcx.io/verify-certificate?id=a162f4462899ac22fe7e89f47537c03324c9418e&k=b60fbfe81b4542b9956d442a8fc70f35)
+- [Learning Cryptography and Network Security (LinkedIn Learning) ](https://www.linkedin.com/learning/certificates/8c70ae6d03f8b569490e41af9aed5b69bdf5e2177eefa9fe7da85463b2fb7b37)
+- [Symetric Cryptography Essential Training (LinkedIn Learning) ](https://www.linkedin.com/learning/certificates/ee1de8352f692735f532c01505aeb9b063cf2d07b3ff7129b7c0325523bf0f31)
 
 <h2>📺 Popular YouTube Videos</h2>
 
