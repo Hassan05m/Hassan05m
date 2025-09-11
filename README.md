@@ -13,14 +13,14 @@
 
 <h2>🖊️ Professional Skills</h2>
 
-- [Effective comunication]
+- Effective comunication
 
 <h2>🖊️ Technical Skills</h2>
 
-- [Python]
-- [Java]
-- [Linux]
-- [Word,Powerpoint,Excel]
+- Python
+- Java
+- Linux
+- Word,Powerpoint,Excel
   
 
 
