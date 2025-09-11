@@ -13,7 +13,7 @@
 
 <h2>🖊️ Professional Skills</h2>
 
-- [Effective comunication](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Effective comunication](https://github.com/Hassan05m/Effective-Communication)
 
 <h2>🖊️ Technical Skills</h2>
 
