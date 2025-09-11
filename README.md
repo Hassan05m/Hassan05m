@@ -13,14 +13,14 @@
 
 <h2>🖊️ Professional Skills</h2>
 
-- [Effective comunication](https://github.com/Hassan05m/Effective-Communication)
+- [Effective comunication]
 
 <h2>🖊️ Technical Skills</h2>
 
-- [Python](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Java](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Linux](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Word,Powerpoint,Excel](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Python]
+- [Java]
+- [Linux]
+- [Word,Powerpoint,Excel]
   
 
 
